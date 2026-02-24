@@ -1,3 +1,14 @@
+/* =====================================================
+   SQL BASICS PRACTICE
+   Topics Covered:
+   - Create Database
+   - Show Databases and Tables
+   - Create Table
+   - View Table Structure
+   - Insert Data
+   - Retrieve Data
+   ===================================================== */
+
 -- CREATING DATABASE 
 CREATE DATABASE xyz_company;
 USE xyz_company;
