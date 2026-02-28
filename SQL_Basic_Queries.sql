@@ -38,3 +38,9 @@ INSERT INTO employee_info VALUES
 
 -- VIEW TABLE DATA 
 SELECT * FROM employee_info;
+
+-- DROP DATABASE 
+DROP DATABASE xyz_company;
+
+--DROP TABLE
+DROP TABLE employee_info;
