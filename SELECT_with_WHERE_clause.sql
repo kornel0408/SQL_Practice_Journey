@@ -61,6 +61,7 @@ WHERE city = 'Mumbai' OR city = 'chennai';
 SELECT * FROM 
 sales
 WHERE city != 'Bangalore';
+
 -- ************************************************************************************************
 -- REAL WORLD SCENARIOS LIKE HOW YOUR BOSS ASKS QUESTION WHILE YOU ARE WORKING IN AN ORGANIZATION
 -- ***********************************************************************************************
