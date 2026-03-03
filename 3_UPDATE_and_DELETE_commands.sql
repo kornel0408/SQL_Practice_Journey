@@ -70,6 +70,8 @@ WHERE city = "Bangalore" AND order_status = "Shipped";
    ===========================================================*/
    
 -- “Remove all cancelled orders from the system.”
+-- NOTE : selecting data using WHERE clause is good practice before deleting data
+
 SELECT * FROM orders
 WHERE order_status = "Cancelled";
 
